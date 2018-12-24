@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">灵鱼健身</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">运动分类</string>
+    <string name="title_notifications">个人信息</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_one">This is fragment_one</string>
+    <string name="fragment_two">This is fragment_two</string>
+    <string name="fragment_three">This is fragment_three</string>
+</resources>
